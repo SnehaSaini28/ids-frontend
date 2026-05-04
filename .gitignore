@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Also add these for your Python IDS project
+__pycache__/
+.venv/
+.env
+serviceAccountKey.json
+*.joblib
+*.csv
